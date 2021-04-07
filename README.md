@@ -1,16 +1,19 @@
-- 👋 Hi, I’m @RutvijP
+- 👋 Hi, I’m @RutvijP [ Rutvij Pathak ]
 
 - 👀 I’m interested in ...
 Synthetic Sensors / Wearable Computing / Machine Learning / Robotics
 
-- 🌱 I’m currently learning ...
-Artificial Intelligence / TinyML/ Robotics
+- 🌱 I’m currently working on :
+Currently working on Stealth ML startup focused on Ecology.
+
+- 🌱 I’m currently learning :
+Artificial Intelligence / TinyML/ Robotics 
 
 - 💞️ I’m looking to collaborate on ...
 TinyML Research  / Applied Machine Learning / HCI
 
 - 📫 How to reach me ...
-Email : pathakrutvij541@gmail.com
+Email : pathakrutvij541@gmail.com 
 
 
 <!---
