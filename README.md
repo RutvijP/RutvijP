@@ -4,7 +4,7 @@
 Synthetic Sensors / Wearable Computing / Machine Learning / Robotics
 
 - 🌱 I’m currently working on :
-Currently working on Stealth EdgeTech startup focused on Ecology.
+GSLAB TinyML - PoC
 
 - 🌱 I’m currently learning :
 Artificial Intelligence / TinyML/ Robotics 
