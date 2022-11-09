@@ -4,7 +4,7 @@
 Synthetic Sensors / Wearable Computing / Machine Learning / Robotics
 
 - 🌱 I’m currently working on :
-GSLAB TinyML - PoC
+TinyML End-to End Datapipelines
 
 - 🌱 I’m currently learning :
 Artificial Intelligence / TinyML/ Robotics 
