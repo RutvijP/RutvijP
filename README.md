@@ -1,13 +1,13 @@
-- 👋 Hi, I’m @RutvijP [ Rutvij Pathak ]
+- 👋 Hi, I’m (Rutvij Pathak) [@RutvijP]
 
 - 👀 I’m interested in ...
 Synthetic Sensors / Wearable Computing / Machine Learning / Robotics
 
 - 🌱 I’m currently working on :
-TinyML End-to End Datapipelines
+TinyML / End-to End ML Experiences
 
 - 🌱 I’m currently learning :
-Artificial Intelligence / TinyML/ Robotics 
+Artificial Intelligence / TinyML/ Robotics / LangChain
 
 - 💞️ I’m looking to collaborate on ...
 TinyML Research  / Applied Machine Learning / HCI
